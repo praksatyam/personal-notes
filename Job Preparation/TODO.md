@@ -1,11 +1,23 @@
 Must:
 - [ ] Multi-threading
 - [ ] Programming for Big Data : https://burcuku.github.io/cse2520-bigdata/prog-big-data.html
-- [ ] Distributed System : https://burcuku.github.io/cse2520-bigdata/dist-systems.html
+- [x] Distributed System : https://burcuku.github.io/cse2520-bigdata/dist-systems.html
 - [ ] Distributed Databases :
 - [ ] Distributed Filesystems : 
+- [ ] SQL: Stratascratch
 - [ ] SPARK: RDDs and Pair RDDs
-- [ ] SPARK : SQL
+	- [ ] https://www.youtube.com/playlist?list=PLWAuYt0wgRcLCtWzUxNg4BjnYlCZNEVth
+- [ ] SQL
+	- [ ] Window Functions
+	- [ ] Rolling windows
+	- [ ] Rolling Sums
+	- [ ] Rolling Averages
+	- [ ] Case inside case sum
+	- [ ] Aggregations
+- [ ] Data Modelling:
+	- [ ] Start Snowflake Schema
+	- [ ] Slowly Changing Dimensions
+	- [ ] Build Data Models to practice
 - [ ] [Introduction to Functional Programming for Big Data Processing](https://online-learning.tudelft.nl/courses/introduction-to-functional-programming-for-big-data-processing/)
 - [ ] [Taming Big Data Streams: Real-time Data Processing at Scale](https://online-learning.tudelft.nl/courses/taming-big-data-streams-real-time-data-processing-at-scale/)
 - [ ] Synchronisation
